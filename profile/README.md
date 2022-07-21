@@ -18,16 +18,19 @@ Our mission is to support and build with the future GENeration of Creators in th
 
 ## Portfolio
 
-### Uninterested Unicorns
+### Uninterested Unicorns <img src="https://img.shields.io/badge/Completed-Green"/>
 
 <img src="https://img.shields.io/badge/NFT-blue"/>
 <img src="https://img.shields.io/badge/Web Development-lightblue"/>
 
-<a href="https://uunicorns.io/" target="blank"><img align="center" src="https://img.shields.io/badge/WEBSITE-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=4285F4"></a>
-<a href="https://opensea.io/collection/ununicornsofficial" target="blank"><img align="center" src="https://img.shields.io/badge/OPENSEA-FFFFFF?style=for-the-badge&logo=opensea&logoColor=2081E2"></a>
-<a href="https://etherscan.io/address/0xC4a0b1E7AA137ADA8b2F911A501638088DFdD508#code" target="blank"><img align="center" src="https://img.shields.io/badge/Contract-FFFFFF?style=for-the-badge&logo=Ethereum&logoColor=3C3C3D" ></a>
+<img src="assets/uninterestedunicorns.jpg" width="100">
 
-<a href="https://opensea.io/collection/ununicornsofficial" target="blank"><img align="center" alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/U_UnicornsNFT?color=FFFFFF&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+<a href="https://uunicorns.io/" target="blank"><img align="center" src="https://img.shields.io/badge/WEBSITE-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=4285F4"></a>
+<a href="https://opensea.io/collection/ununicornsofficial" target="blank"><img align="center" src="https://img.shields.io/badge/GEN1-FFFFFF?style=for-the-badge&logo=opensea&logoColor=2081E2"></a>
+<a href="https://opensea.io/collection/uninterestedunicornsv2" target="blank"><img align="center" src="https://img.shields.io/badge/GEN2-FFFFFF?style=for-the-badge&logo=opensea&logoColor=2081E2"></a>
+<a href="https://opensea.io/collection/uninterestedunicornsgenesisvx" target="blank"><img align="center" src="https://img.shields.io/badge/GEN1 VOXEL-FFFFFF?style=for-the-badge&logo=opensea&logoColor=2081E2"></a>
+
+<a href="https://twitter.com/U_UnicornsNFT" target="blank"><img align="center" alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/U_UnicornsNFT?color=FFFFFF&logo=twitter&logoColor=white&style=for-the-badge"/></a>
 
 ### Shogun Samurais
 
