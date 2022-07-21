@@ -18,16 +18,16 @@ Our mission is to support and build with the future GENeration of Creators in th
 
 ## Portfolio
 
-### Uninterested Unicorns - ♦️ 308 ETH Raised
+### <img align="center" src="https://raw.githubusercontent.com/GEN3labs/.github/main/profile/assets/uninterestedunicorns.jpg" width="50"> Uninterested Unicorns - ♦️ 308 ETH Raised
 
 <p align="left">
 <img src="https://img.shields.io/badge/Completed-Green"/><img src="https://img.shields.io/badge/NFT-blue"/><img src="https://img.shields.io/badge/Web Development-lightblue"/>
 
+<img src="https://raw.githubusercontent.com/GEN3labs/.github/main/profile/assets/uninterestedunicorns-website.png">
+
 <p align="left">
 
-<img src="https://raw.githubusercontent.com/GEN3labs/.github/main/profile/assets/uninterestedunicorns.jpg" width="100">
-
-<a href="https://www.shogunsamurais.com/" target="blank"><img align="center" src="https://img.shields.io/badge/WEBSITE-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=4285F4"></a>
+<a href="https://uunicorns.io/" target="blank"><img align="center" src="https://img.shields.io/badge/WEBSITE-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=4285F4"></a>
 <a href="https://opensea.io/collection/ununicornsofficial" target="blank"><img align="center" src="https://img.shields.io/badge/GEN1-FFFFFF?style=for-the-badge&logo=opensea&logoColor=2081E2"></a>
 <a href="https://opensea.io/collection/uninterestedunicornsv2" target="blank"><img align="center" src="https://img.shields.io/badge/GEN2-FFFFFF?style=for-the-badge&logo=opensea&logoColor=2081E2"></a>
 <a href="https://opensea.io/collection/uninterestedunicornsgenesisvx" target="blank"><img align="center" src="https://img.shields.io/badge/GEN1 VOXEL-FFFFFF?style=for-the-badge&logo=opensea&logoColor=2081E2"></a>
@@ -80,9 +80,9 @@ Our mission is to support and build with the future GENeration of Creators in th
 <img src="https://raw.githubusercontent.com/GEN3labs/.github/main/profile/assets/beatbots.gif" width="100">
 
 <a href="https://www.thebeatbots.xyz/" target="blank"><img align="center" src="https://img.shields.io/badge/WEBSITE-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=4285F4"></a>
-<a href="https://opensea.io/collection/propertysofficial" target="blank"><img align="center" src="https://img.shields.io/badge/OPENSEA-FFFFFF?style=for-the-badge&logo=opensea&logoColor=2081E2"></a>
+<a href="https://opensea.io/collection/beatbotsgenesis" target="blank"><img align="center" src="https://img.shields.io/badge/OPENSEA-FFFFFF?style=for-the-badge&logo=opensea&logoColor=2081E2"></a>
 
-<a href="https://twitter.com/propertys_nft" target="blank"><img align="center" alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/propertys_nft?color=FFFFFF&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+<a href="https://twitter.com/TheBeatBots" target="blank"><img align="center" alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/TheBeatBots?color=FFFFFF&logo=twitter&logoColor=white&style=for-the-badge"/></a>
 
 ### Parallax Genesis
 
