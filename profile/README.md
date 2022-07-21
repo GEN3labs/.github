@@ -64,7 +64,7 @@ Our mission is to support and build with the future GENeration of Creators in th
 <img src="https://img.shields.io/badge/NFT-blue"/>
 <img src="https://img.shields.io/badge/Web Development-lightblue"/>
 
-<img src="https://raw.githubusercontent.com/GEN3labs/.github/main/profile/assets/propertys-website.png">
+<img src="https://raw.githubusercontent.com/GEN3labs/.github/main/profile/assets/beatbots-website.png">
 
 <a href="https://www.thebeatbots.xyz/" target="blank"><img align="center" src="https://img.shields.io/badge/WEBSITE-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=4285F4"></a>
 <a href="https://opensea.io/collection/beatbotsgenesis" target="blank"><img align="center" src="https://img.shields.io/badge/OPENSEA-FFFFFF?style=for-the-badge&logo=opensea&logoColor=2081E2"></a>
