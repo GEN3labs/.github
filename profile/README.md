@@ -18,10 +18,9 @@ Our mission is to support and build with the future GENeration of Creators in th
 
 ## Portfolio
 
-### Uninterested Unicorns <img src="https://img.shields.io/badge/Completed-Green"/>
+### Uninterested Unicorns <p align="left"><img src="https://img.shields.io/badge/Completed-Green"/><img src="https://img.shields.io/badge/NFT-blue"/><img src="https://img.shields.io/badge/Web Development-lightblue"/>
 
-<img src="https://img.shields.io/badge/NFT-blue"/>
-<img src="https://img.shields.io/badge/Web Development-lightblue"/>
+<p align="left">
 
 <img src="https://raw.githubusercontent.com/GEN3labs/.github/main/profile/assets/uninterestedunicorns.jpg" width="100">
 
