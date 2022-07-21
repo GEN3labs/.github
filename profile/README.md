@@ -92,32 +92,36 @@ Our mission is to support and build with the future GENeration of Creators in th
 
 <a href="https://twitter.com/TheBeatBots" target="blank"><img align="center" alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/TheBeatBots?color=FFFFFF&logo=twitter&logoColor=white&style=for-the-badge"/></a>
 
+### Undisclosed NFT Collection - ♦️ 829 ETH Raised
+
+<p align="left">
+<img src="https://img.shields.io/badge/Completed-Green"/>
+<img src="https://img.shields.io/badge/NFT-blue"/>
+<img src="https://img.shields.io/badge/Web Development-lightblue"/>
+
+### PlaybookXO
+
+<p align="left">
+<img src="https://img.shields.io/badge/Audit-red"/>
+
+<a href="https://github.com/2manslkh/smartcontract-audits/blob/main/PlaybookXO%20Audit.pdf" target="blank"><img align="center" src="https://img.shields.io/badge/Audit-FFFFFF?style=for-the-badge&logo=Github&logoColor=000000"></a>
+
 ### Zooties
 
 <p align="left">
+<img src="https://img.shields.io/badge/Discontinued-red"/>
 <img src="https://img.shields.io/badge/NFT-blue"/>
 <img src="https://img.shields.io/badge/Web Development-lightblue"/>
 
 ### Niruma
 
 <p align="left">
+<img src="https://img.shields.io/badge/Discontinued-red"/>
 <img src="https://img.shields.io/badge/NFT-blue"/>
 <img src="https://img.shields.io/badge/Web Development-lightblue"/>
 
-### Undisclosed NFT Collection - ♦️ 829 ETH Raised
-
-### Pop Knights
-
-<img src="https://img.shields.io/badge/Audit-red"/>
-
-### Enlightened Rats
-
-<img src="https://img.shields.io/badge/Audit-red"/>
-
 ### BrainChild
 
-<img src="https://img.shields.io/badge/Audit-red"/>
-
-### PlaybookXO
-
+<p align="left">
+<img src="https://img.shields.io/badge/Discontinued-red"/>
 <img src="https://img.shields.io/badge/Audit-red"/>
