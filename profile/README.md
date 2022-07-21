@@ -34,50 +34,37 @@ Our mission is to support and build with the future GENeration of Creators in th
 
 <a href="https://twitter.com/U_UnicornsNFT" target="blank"><img align="center" alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/U_UnicornsNFT?color=FFFFFF&logo=twitter&logoColor=white&style=for-the-badge"/></a>
 
-### Shogun Samurais
+### <img align="center" src="https://raw.githubusercontent.com/GEN3labs/.github/main/profile/assets/shogunsamurais.jpg" width="50"> Shogun Samurais - ♦️ 480 ETH Raised
 
-<img src="https://img.shields.io/badge/NFT-blue"/>
+<p align="left">
+<img src="https://img.shields.io/badge/Completed-Green"/><img src="https://img.shields.io/badge/NFT-blue"/><img src="https://img.shields.io/badge/Web Development-lightblue"/>
 
-<img src="https://raw.githubusercontent.com/GEN3labs/.github/main/profile/assets/shogunsamurais.jpg" width="100">
+<img src="https://raw.githubusercontent.com/GEN3labs/.github/main/profile/assets/shogunsamurais-website.png">
 
-<a href="https://uunicorns.io/" target="blank"><img align="center" src="https://img.shields.io/badge/WEBSITE-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=4285F4"></a>
+<a href="https://www.shogunsamurais.com/" target="blank"><img align="center" src="https://img.shields.io/badge/WEBSITE-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=4285F4"></a>
 <a href="https://opensea.io/collection/shogunsamurais" target="blank"><img align="center" src="https://img.shields.io/badge/OPENSEA-FFFFFF?style=for-the-badge&logo=opensea&logoColor=2081E2"></a>
 
 <a href="https://twitter.com/ShogunSamurais" target="blank"><img align="center" alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/ShogunSamurais?color=FFFFFF&logo=twitter&logoColor=white&style=for-the-badge"/></a>
 
-### Propertys - ♦️ 482 ETH Raised
+### <img align="center" src="https://raw.githubusercontent.com/GEN3labs/.github/main/profile/assets/propertys.jpg" width="50"> Propertys - ♦️ 482 ETH Raised
 
-<img src="https://img.shields.io/badge/NFT-blue"/>
+<p align="left">
+<img src="https://img.shields.io/badge/Completed-Green"/><img src="https://img.shields.io/badge/NFT-blue"/><img src="https://img.shields.io/badge/Web Development-lightblue"/>
 
-<img src="https://raw.githubusercontent.com/GEN3labs/.github/main/profile/assets/propertys.jpg" width="100">
+<img src="https://raw.githubusercontent.com/GEN3labs/.github/main/profile/assets/propertys-website.png">
 
 <a href="https://propertys.xyz/" target="blank"><img align="center" src="https://img.shields.io/badge/WEBSITE-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=4285F4"></a>
 <a href="https://opensea.io/collection/propertysofficial" target="blank"><img align="center" src="https://img.shields.io/badge/OPENSEA-FFFFFF?style=for-the-badge&logo=opensea&logoColor=2081E2"></a>
 
 <a href="https://twitter.com/propertys_nft" target="blank"><img align="center" alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/propertys_nft?color=FFFFFF&logo=twitter&logoColor=white&style=for-the-badge"/></a>
 
-### Pop Knights
+### <img align="center" src="https://raw.githubusercontent.com/GEN3labs/.github/main/profile/assets/beatbots.gif" width="50"> BeatBots
 
-<img src="https://img.shields.io/badge/Audit-red"/>
-
-### Enlightened Rats
-
-<img src="https://img.shields.io/badge/Audit-red"/>
-
-### BrainChild
-
-<img src="https://img.shields.io/badge/Audit-red"/>
-
-### PlaybookXO
-
-<img src="https://img.shields.io/badge/Audit-red"/>
-
-### BeatBots
-
+<p align="left">
 <img src="https://img.shields.io/badge/NFT-blue"/>
 <img src="https://img.shields.io/badge/Web Development-lightblue"/>
 
-<img src="https://raw.githubusercontent.com/GEN3labs/.github/main/profile/assets/beatbots.gif" width="100">
+<img src="https://raw.githubusercontent.com/GEN3labs/.github/main/profile/assets/propertys-website.png">
 
 <a href="https://www.thebeatbots.xyz/" target="blank"><img align="center" src="https://img.shields.io/badge/WEBSITE-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=4285F4"></a>
 <a href="https://opensea.io/collection/beatbotsgenesis" target="blank"><img align="center" src="https://img.shields.io/badge/OPENSEA-FFFFFF?style=for-the-badge&logo=opensea&logoColor=2081E2"></a>
@@ -100,3 +87,19 @@ Our mission is to support and build with the future GENeration of Creators in th
 <img src="https://img.shields.io/badge/Web Development-lightblue"/>
 
 ### Undisclosed NFT Collection - ♦️ 829 ETH Raised
+
+### Pop Knights
+
+<img src="https://img.shields.io/badge/Audit-red"/>
+
+### Enlightened Rats
+
+<img src="https://img.shields.io/badge/Audit-red"/>
+
+### BrainChild
+
+<img src="https://img.shields.io/badge/Audit-red"/>
+
+### PlaybookXO
+
+<img src="https://img.shields.io/badge/Audit-red"/>
