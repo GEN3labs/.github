@@ -11,6 +11,10 @@ Our mission is to support and build with the future GENeration of Creators in th
 ## Services
 
 1. Smart Contract Developement
+   1. NFTs (ERC721, ERC1155)
+   2. Tokens (ERC20)
+   3. DeFi (Staking, Yield Farming)
+   4. Any EVM Chain (ETH, BSC, Polygon, AVAX, FTM, etc)
 2. Smart Contract Auditing
 3. Web Design
 4. Web Development (with Web3 Integration)
