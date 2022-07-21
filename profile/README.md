@@ -71,10 +71,18 @@ Our mission is to support and build with the future GENeration of Creators in th
 
 <a href="https://twitter.com/TheBeatBots" target="blank"><img align="center" alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/TheBeatBots?color=FFFFFF&logo=twitter&logoColor=white&style=for-the-badge"/></a>
 
-### Parallax Genesis
+### <img align="center" src="https://raw.githubusercontent.com/GEN3labs/.github/main/profile/assets/parallaxgenesis.jpg" width="50"> Parallax Genesis - ♦️ 272 ETH Raised
 
+<p align="left">
 <img src="https://img.shields.io/badge/NFT-blue"/>
 <img src="https://img.shields.io/badge/Web Development-lightblue"/>
+
+<img src="https://raw.githubusercontent.com/GEN3labs/.github/main/profile/assets/parallaxgenesis-website.png">
+
+<a href="https://theparallax.com/" target="blank"><img align="center" src="https://img.shields.io/badge/WEBSITE-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=4285F4"></a>
+<a href="https://opensea.io/collection/theparallaxgenesis" target="blank"><img align="center" src="https://img.shields.io/badge/OPENSEA-FFFFFF?style=for-the-badge&logo=opensea&logoColor=2081E2"></a>
+
+<a href="https://twitter.com/TheParallaxHQ" target="blank"><img align="center" alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/TheParallaxHQ?color=FFFFFF&logo=twitter&logoColor=white&style=for-the-badge"/></a>
 
 ### Zooties
 
