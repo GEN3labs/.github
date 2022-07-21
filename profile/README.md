@@ -23,7 +23,7 @@ Our mission is to support and build with the future GENeration of Creators in th
 <img src="https://img.shields.io/badge/NFT-blue"/>
 <img src="https://img.shields.io/badge/Web Development-lightblue"/>
 
-<img src="assets/uninterestedunicorns.jpg" width="100">
+<img src="https://raw.githubusercontent.com/GEN3labs/.github/main/profile/assets/uninterestedunicorns.jpg" width="100">
 
 <a href="https://uunicorns.io/" target="blank"><img align="center" src="https://img.shields.io/badge/WEBSITE-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=4285F4"></a>
 <a href="https://opensea.io/collection/ununicornsofficial" target="blank"><img align="center" src="https://img.shields.io/badge/GEN1-FFFFFF?style=for-the-badge&logo=opensea&logoColor=2081E2"></a>
@@ -35,6 +35,15 @@ Our mission is to support and build with the future GENeration of Creators in th
 ### Shogun Samurais
 
 <img src="https://img.shields.io/badge/NFT-blue"/>
+
+<img src="https://raw.githubusercontent.com/GEN3labs/.github/main/profile/assets/shogunsamurais.jpg" width="100">
+
+<a href="https://uunicorns.io/" target="blank"><img align="center" src="https://img.shields.io/badge/WEBSITE-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=4285F4"></a>
+<a href="https://opensea.io/collection/ununicornsofficial" target="blank"><img align="center" src="https://img.shields.io/badge/GEN1-FFFFFF?style=for-the-badge&logo=opensea&logoColor=2081E2"></a>
+<a href="https://opensea.io/collection/uninterestedunicornsv2" target="blank"><img align="center" src="https://img.shields.io/badge/GEN2-FFFFFF?style=for-the-badge&logo=opensea&logoColor=2081E2"></a>
+<a href="https://opensea.io/collection/uninterestedunicornsgenesisvx" target="blank"><img align="center" src="https://img.shields.io/badge/GEN1 VOXEL-FFFFFF?style=for-the-badge&logo=opensea&logoColor=2081E2"></a>
+
+<a href="https://twitter.com/U_UnicornsNFT" target="blank"><img align="center" alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/U_UnicornsNFT?color=FFFFFF&logo=twitter&logoColor=white&style=for-the-badge"/></a>
 
 ### Propertys
 
