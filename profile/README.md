@@ -18,7 +18,7 @@ Our mission is to support and build with the future GENeration of Creators in th
 
 ## Portfolio
 
-### Uninterested Unicorns
+### Uninterested Unicorns - ♦️ 308 ETH Raised
 
 <p align="left">
 <img src="https://img.shields.io/badge/Completed-Green"/><img src="https://img.shields.io/badge/NFT-blue"/><img src="https://img.shields.io/badge/Web Development-lightblue"/>
@@ -45,7 +45,7 @@ Our mission is to support and build with the future GENeration of Creators in th
 
 <a href="https://twitter.com/ShogunSamurais" target="blank"><img align="center" alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/ShogunSamurais?color=FFFFFF&logo=twitter&logoColor=white&style=for-the-badge"/></a>
 
-### Propertys
+### Propertys - ♦️ 482 ETH Raised
 
 <img src="https://img.shields.io/badge/NFT-blue"/>
 
@@ -57,6 +57,8 @@ Our mission is to support and build with the future GENeration of Creators in th
 <a href="https://twitter.com/propertys_nft" target="blank"><img align="center" alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/propertys_nft?color=FFFFFF&logo=twitter&logoColor=white&style=for-the-badge"/></a>
 
 ### Pop Knights
+
+<img src="https://img.shields.io/badge/Audit-red"/>
 
 ### Enlightened Rats
 
@@ -90,4 +92,4 @@ Our mission is to support and build with the future GENeration of Creators in th
 <img src="https://img.shields.io/badge/NFT-blue"/>
 <img src="https://img.shields.io/badge/Web Development-lightblue"/>
 
-### Undisclosed NFT Collection
+### Undisclosed NFT Collection - ♦️ 829 ETH Raised
