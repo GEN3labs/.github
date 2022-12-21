@@ -40,20 +40,6 @@ Our mission is to support and build with the future GENeration of Creators in th
 
 <a href="https://twitter.com/U_UnicornsNFT" target="blank"><img align="center" alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/U_UnicornsNFT?color=FFFFFF&logo=twitter&logoColor=white&style=for-the-badge"/></a>
 
-### <img align="center" src="https://raw.githubusercontent.com/GEN3labs/.github/main/profile/assets/shogunsamurais.jpg" width="50"> Shogun Samurais - ♦️ 480 ETH Raised
-
-<p align="left">
-<img src="https://img.shields.io/badge/Completed-Green"/>
-<img src="https://img.shields.io/badge/NFT-blue"/>
-<img src="https://img.shields.io/badge/Web Development-lightblue"/>
-
-<img src="https://raw.githubusercontent.com/GEN3labs/.github/main/profile/assets/shogunsamurais-website.png">
-
-<a href="https://www.shogunsamurais.com/" target="blank"><img align="center" src="https://img.shields.io/badge/WEBSITE-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=4285F4"></a>
-<a href="https://opensea.io/collection/shogunsamurais" target="blank"><img align="center" src="https://img.shields.io/badge/OPENSEA-FFFFFF?style=for-the-badge&logo=opensea&logoColor=2081E2"></a>
-
-<a href="https://twitter.com/ShogunSamurais" target="blank"><img align="center" alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/ShogunSamurais?color=FFFFFF&logo=twitter&logoColor=white&style=for-the-badge"/></a>
-
 ### <img align="center" src="https://raw.githubusercontent.com/GEN3labs/.github/main/profile/assets/propertys.jpg" width="50"> Propertys - ♦️ 482 ETH Raised
 
 <p align="left">
